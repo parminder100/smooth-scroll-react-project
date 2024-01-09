@@ -1,0 +1,31 @@
+.about-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 30px 0px;
+    background-color: rgb(41, 39, 39);
+    min-height: 80vh;
+    color:#fff;
+    padding-top: 80px;
+}
+.service-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 30px 0px;
+    background-color: rgb(248, 120, 120);
+    min-height: 80vh;
+    color:#fff;
+}
+.contact-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 30px 0px;
+    background-color: rgb(120, 165, 248);
+    min-height: 80vh;
+    color:#fff;
+}
